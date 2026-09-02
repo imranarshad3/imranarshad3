@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,25:4f8cff,60:20d9ff,100:a76cff&height=250&section=header&text=Imran%20Arshad&fontSize=58&fontColor=e8f1ff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Agent%20%26%20Automation%20Expert%20%C2%B7%20React%20Developer&descAlignY=56&descSize=17&descColor=99a9c2" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&duration=2600&pause=900&color=20D9FF&center=true&vCenter=true&repeat=true&width=680&lines=%3E+Building+intelligent+applications...;%3E+Automating+the+future+with+AI+agents;%3E+Shipping+production-ready+React+%2B+Rails" alt="Typing SVG" />
 
@@ -72,7 +71,7 @@ Music library management with complete CRUD operations.
 <tr>
 <td width="50%" valign="top">
 
-### ✅ Task Management
+  Task Management
 Authentication, prioritization, responsive UI, and clean MVC design.
 
 `Rails` `JavaScript` `PostgreSQL`
@@ -111,8 +110,6 @@ Diet planning, communication orchestration, and real-time digests.
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ImranArshad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=20D9FF&icon_color=4F8CFF&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranArshad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=20D9FF"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranArshad&theme=radical&hide_border=true&background=0D1117&ring=20D9FF&fire=A76CFF"/>
 
