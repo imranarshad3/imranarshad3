@@ -1,13 +1,131 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Imran Arshad | Animated GitHub Profile</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500<title>Imran Arshad | Animated GitHub Profile</title>family=Inter:wght@400;500;600;700;800<title>Imran Arshad | Animated GitHub Profile</title>family=Space+Grotesk:wght@500;600;700<title>Imran Arshad | Animated GitHub Profile</title>display=swap" rel="stylesheet">
-<style>body,.main{font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}.hero h1,.hero h3,.side h2,h2,h3{font-family:"Space Grotesk",Inter,sans-serif}.typing,.skill{font-family:"DM Mono",ui-monospace,SFMono-Regular,monospace}.lucide{width:16px;height:16px;stroke-width:2;vertical-align:-3px}.hero .lucide{width:18px;height:18px}
-:root{--bg:#070b14;--panel:#0d1422;--line:#22304a;--text:#e8f1ff;--muted:#99a9c2;--cyan:#20d9ff;--blue:#4f8cff;--violet:#a76cff;--pink:#ff4fc3}*{box-sizing:border-box}body{margin:0;background:#f4f7fb;color:#172033;font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}.browser{max-width:1160px;margin:24px auto;background:#fff;border:1px solid #d8e0eb;border-radius:16px;overflow:hidden;box-shadow:0 22px 70px #1f35501c}.bar{height:48px;background:#f8fafc;border-bottom:1px solid #d8e0eb;display:flex;align-items:center;padding:0 18px;gap:8px}.dot{width:12px;height:12px;border-radius:50%;background:#ff5f57}.dot:nth-child(2){background:#febc2e}.dot:nth-child(3){background:#28c840}.url{margin-left:18px;flex:1;background:#fff;border:1px solid #d8e0eb;border-radius:8px;padding:6px 14px;color:#627089;font-size:13px}.page{display:grid;grid-template-columns:245px 1fr;min-height:1000px}.side{border-right:1px solid #d8e0eb;padding:30px 20px;background:linear-gradient(180deg,#fff,#f8fbff)}.portrait{height:142px;width:142px;margin:0 auto 20px;border-radius:50%;position:relative;background:radial-gradient(circle at 50% 34%,#b97851 0 17%,transparent 18%),radial-gradient(circle at 50% 38%,#1c2234 0 29%,transparent 30%),linear-gradient(135deg,#162944,#20d9ff 58%,#a76cff);box-shadow:0 0 0 7px #eef4fb,0 0 25px #20d9ff99;animation:float 4s ease-in-out infinite}.portrait:before{content:"";position:absolute;inset:9px;border:1px solid #ffffff77;border-radius:50%;animation:spin 10s linear infinite}.portrait:after{content:"IA";position:absolute;bottom:16px;left:0;right:0;text-align:center;color:#fff;font-weight:800;font-size:23px;letter-spacing:3px;text-shadow:0 2px 8px #001}@keyframes float{50%{transform:translateY(-7px)}}@keyframes spin{to{transform:rotate(360deg)}}.side h2{text-align:center;margin:0;color:#18243a;font-size:22px}.handle{text-align:center;color:#61708a;margin:5px 0 16px}.status{text-align:center;color:#087f5b;font-size:12px;margin-bottom:20px}.status i{display:inline-block;width:8px;height:8px;background:#19b77a;border-radius:50%;margin-right:5px;box-shadow:0 0 10px #19b77a}.mini{display:flex;gap:8px;flex-wrap:wrap;justify-content:center}.mini a{display:flex;align-items:center;gap:6px;color:#1463ce;text-decoration:none;font-size:12px;background:#eef6ff;border:1px solid #cfe3fb;border-radius:20px;padding:7px 10px}.main{padding:30px 42px;max-width:900px}.hero{position:relative;overflow:hidden;border-radius:16px;padding:42px 28px;color:var(--text);text-align:center;background:radial-gradient(circle at 10% 10%,#15365e,transparent 33%),radial-gradient(circle at 90% 80%,#3b185e,transparent 35%),linear-gradient(135deg,#070b14,#101c32);box-shadow:0 16px 38px #07101f44}.hero:before,.hero:after{content:"";position:absolute;width:280px;height:280px;border:1px solid #20d9ff44;border-radius:50%;animation:orbit 13s linear infinite}.hero:before{left:-140px;top:-165px}.hero:after{right:-150px;bottom:-170px;border-color:#a76cff55;animation-direction:reverse}@keyframes orbit{to{transform:rotate(360deg)}}.hero>*{position:relative;z-index:1}.hero h1{font-size:38px;margin:0 0 8px;letter-spacing:-1px}.hero h1 span{background:linear-gradient(90deg,var(--cyan),#fff,var(--violet));-webkit-background-clip:text;color:transparent;background-size:200%;animation:shine 4s ease-in-out infinite}@keyframes shine{50%{background-position:100%}}.hero h3{font-weight:500;color:#bdcbe0;margin:0 0 23px}.badges{display:flex;justify-content:center;gap:8px;flex-wrap:wrap}.badge{display:flex;align-items:center;gap:7px;padding:8px 12px;border-radius:8px;background:#ffffff0d;border:1px solid #ffffff22;color:#edf5ff;font-size:12px;transition:.25s}.badge:hover{transform:translateY(-3px);border-color:var(--cyan);box-shadow:0 5px 18px #20d9ff33}.badge img,.skill img{width:18px;height:18px}.typing{margin-top:26px;color:var(--cyan);font-family:ui-monospace,SFMono-Regular,monospace;font-size:13px}.cursor{animation:blink 1s steps(2) infinite}@keyframes blink{50%{opacity:0}}.particles i{position:absolute;width:4px;height:4px;border-radius:50%;background:var(--cyan);opacity:.7;animation:particle 5s ease-in-out infinite}.particles i:nth-child(1){left:12%;top:28%}.particles i:nth-child(2){left:82%;top:25%;animation-delay:1s;background:var(--violet)}.particles i:nth-child(3){left:68%;top:72%;animation-delay:2s}.particles i:nth-child(4){left:27%;top:78%;animation-delay:3s;background:var(--pink)}@keyframes particle{50%{transform:translateY(-24px) scale(1.7);opacity:1}}section{margin-top:34px}h2{font-size:24px;border-bottom:1px solid #d8e0eb;padding-bottom:10px;margin:0 0 15px;color:#1b2941}.main p{line-height:1.65;color:#5e6c82}.callout{border:1px solid #bdeaff;border-left:4px solid var(--cyan);background:linear-gradient(90deg,#e7f9ff,#f7fbff);padding:15px 17px;border-radius:7px;margin:18px 0;color:#233248}.skills{display:flex;flex-wrap:wrap;gap:9px}.skill{display:flex;align-items:center;gap:7px;font-family:ui-monospace,monospace;font-size:12px;background:#f8fbff;border:1px solid #d5e0ee;border-radius:8px;padding:8px 10px;transition:.25s}.skill:hover{transform:translateY(-4px);border-color:var(--cyan);box-shadow:0 8px 18px #20d9ff22}.cards{display:grid;grid-template-columns:1fr 1fr;gap:14px}.card{position:relative;border:1px solid #d5e0ee;border-radius:10px;padding:17px;background:linear-gradient(145deg,#fff,#f8fbff);transition:.3s;overflow:hidden}.card:after{content:"";position:absolute;inset:auto -25px -42px auto;width:100px;height:100px;border-radius:50%;background:#20d9ff18}.card:hover{transform:translateY(-6px);border-color:#8adff4;box-shadow:0 14px 30px #1a80a61c}.card h3{margin:0 0 8px;font-size:16px}.card p{font-size:13px;margin:6px 0}.card a{color:#0969da;text-decoration:none;font-weight:700}.table{width:100%;border-collapse:collapse;font-size:13px;border-radius:8px;overflow:hidden}.table th,.table td{border:1px solid #d5e0ee;padding:11px;text-align:left}.table th{background:#f3f8fe}.analytics{background:linear-gradient(135deg,#080d17,#142541);border-radius:11px;padding:22px;text-align:center;color:#e8f1ff}.statrow{display:flex;justify-content:center;gap:13px;flex-wrap:wrap}.stat{border:1px solid #ffffff1f;background:#ffffff0b;border-radius:9px;padding:16px 22px;min-width:155px}.stat b{display:block;color:var(--cyan);font-size:24px}.stat small{color:#aab9cf}.footer{text-align:center;color:#61708a;border-top:1px solid #d8e0eb;padding-top:23px;margin-top:40px}.footer strong{color:#1b2941}@media(max-width:760px){.browser{margin:0;border-radius:0}.page{display:block}.side{border-right:0;border-bottom:1px solid #d8e0eb}.main{padding:22px 18px}.cards{grid-template-columns:1fr}.hero h1{font-size:29px}}
-.hero{border:1px solid #ffffff22!important;box-shadow:0 22px 60px #07101f66!important}.hero h1{letter-spacing:-1.5px!important}.card{border-radius:14px!important;box-shadow:0 8px 24px #1f35500c!important}.card:hover{transform:translateY(-8px) scale(1.01)!important;box-shadow:0 18px 35px #20d9ff22!important}.skill{border-radius:999px!important;background:linear-gradient(135deg,#fff,#f0f8ff)!important}.skill:hover{transform:translateY(-5px) scale(1.03)!important}.badge{backdrop-filter:blur(10px);box-shadow:inset 0 1px #ffffff22}.analytics{box-shadow:inset 0 1px #ffffff18,0 14px 30px #07101f33}.side{background:radial-gradient(circle at 50% 0%,#eefaff,transparent 34%),linear-gradient(180deg,#fff,#f8fbff)!important}(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
-body:before{content:"AI DESIGN SYSTEM / 01";position:fixed;top:12px;left:18px;font:600 10px ui-monospace,monospace;letter-spacing:2px;color:#71809a;z-index:5}.browser{position:relative}.browser:after{content:"SMART PROFILE · AUTO-LAYOUT READY";position:absolute;right:20px;top:15px;font:600 9px ui-monospace,monospace;letter-spacing:1px;color:#71809a;z-index:4}.main{background-image:linear-gradient(#edf3fa 1px,transparent 1px),linear-gradient(90deg,#edf3fa 1px,transparent 1px);background-size:24px 24px;background-position:center;padding-top:36px}.hero{isolation:isolate;border:1px solid #ffffff22!important;box-shadow:0 22px 60px #07101f66!important}section{background:#ffffffd9;border:1px solid #dce6f2;border-radius:16px;padding:22px;box-shadow:0 10px 30px #1f355008;backdrop-filter:blur(12px);transition:box-shadow .3s,transform .3s}section:hover{box-shadow:0 16px 38px #1b6b9412;transform:translateY(-2px)}section h2{display:flex;align-items:center;gap:10px;border-bottom:0;margin-bottom:10px;font-size:20px}section h2:before{content:"";width:9px;height:9px;border-radius:3px;background:linear-gradient(135deg,#20d9ff,#a76cff);box-shadow:0 0 12px #20d9ff88}.skill{border-radius:999px!important;background:linear-gradient(135deg,#fff,#f0f8ff)!important}.cards{gap:12px}.card{border-radius:14px!important;background:#ffffffeb!important;box-shadow:0 8px 24px #1f35500c!important}.card:hover{transform:translateY(-8px) scale(1.01)!important;box-shadow:0 18px 35px #20d9ff22!important}.analytics{box-shadow:inset 0 1px #ffffff18,0 14px 30px #07101f33}.footer{background:#ffffffd9;border-radius:16px;padding:22px;border:1px solid #dce6f2}@keyframes sweep{55%,100%{transform:translateX(100%)}}@media(prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
-body{background:radial-gradient(circle at 15% 0%,#142845,#070b14 42%,#05070d)!important;color:#dce9fb!important}.browser{background:#080d17!important;border-color:#263754!important;box-shadow:0 30px 90px #0009!important}.bar{background:#0b1220!important;border-color:#263754!important}.url{background:#111b2c!important;border-color:#2c405f!important;color:#91a6c5!important}.page{background:#080d17!important}.side{background:linear-gradient(180deg,#0c1525,#09101d)!important;border-color:#263754!important}.side h2{color:#f1f6ff!important}.handle{color:#9aacca!important}.status{color:#54e0ad!important}.mini a{background:#10243b!important;border-color:#21466a!important;color:#7ddfff!important}.main{background-image:linear-gradient(#17243a 1px,transparent 1px),linear-gradient(90deg,#17243a 1px,transparent 1px)!important}.main section{background:#0c1524e8!important;border-color:#263754!important;box-shadow:0 14px 34px #0003!important}.main section:hover{box-shadow:0 18px 42px #20d9ff1c!important}.main h2{color:#e8f2ff!important}.main p{color:#a8bad3!important}.callout{background:linear-gradient(135deg,#102a3b,#1a1640)!important;border-color:#27516b!important;color:#dbeaff!important}.skill{background:#101c2e!important;border-color:#2a4262!important;color:#cbe0f6!important}.card{background:linear-gradient(145deg,#111e31,#0d1727)!important;border-color:#2a4262!important}.card h3{color:#edf5ff}.card p{color:#9fb2cc!important}.card:hover{border-color:#20d9ff!important}.table{background:#0e1a2b!important;color:#b9c9dd}.table th,.table td{border-color:#29405f!important}.table th{background:#14243a!important;color:#e3efff}.analytics{border:1px solid #2d5275}.footer{background:#0c1524e8!important;border-color:#263754!important;color:#92a8c4!important}.footer strong{color:#dbeaff!important}body:before{color:#6380a4!important}.browser:after{color:#6380a4!important}@media(prefers-color-scheme:light){body{color:#dce9fb}}
-body,.main{font-family:Ubuntu,Arial,sans-serif!important}.hero h1,.hero h3,.side h2,h2,h3{font-family:Ubuntu,Arial,sans-serif!important}.typing,.skill{font-family:"Ubuntu Mono",monospace!important}
-.hero{animation:heroIn .9s cubic-bezier(.2,.8,.2,1) both}.hero:global{display:block}.hero:before{box-shadow:0 0 80px #20d9ff22}.browser{overflow:hidden}.browser:before{content:"";position:absolute;inset:48px 0 0;pointer-events:none;background:linear-gradient(115deg,transparent 0%,#20d9ff08 42%,transparent 58%);transform:translateX(-110%);animation:lightSweep 9s ease-in-out infinite;z-index:3}.browser{position:relative}.main section{opacity:0;transform:translateY(22px);animation:sectionIn .75s cubic-bezier(.2,.8,.2,1) forwards}.main section:nth-of-type(1){animation-delay:.12s}.main section:nth-of-type(2){animation-delay:.22s}.main section:nth-of-type(3){animation-delay:.32s}.main section:nth-of-type(4){animation-delay:.42s}.main section:nth-of-type(5){animation-delay:.52s}@keyframes heroIn{from{opacity:0;transform:scale(.97) translateY(12px)}to{opacity:1;transform:none}}@keyframes sectionIn{to{opacity:1;transform:none}}@keyframes lightSweep{0%,35%{transform:translateX(-110%)}65%,100%{transform:translateX(110%)}}.card,.skill,.badge,.mini a{will-change:transform}.card:before{content:"";position:absolute;inset:0;background:linear-gradient(115deg,transparent 20%,#fff8 45%,transparent 65%);transform:translateX(-130%);transition:transform .7s ease}.card:hover:before{transform:translateX(130%)}.hero .typing{animation:pulseText 3s ease-in-out infinite}@keyframes pulseText{50%{text-shadow:0 0 18px #20d9ff88}}@media(prefers-reduced-motion:reduce){.main section{opacity:1;transform:none;animation:none}.browser:before,.card:before{display:none}}
-</style></head>
-<body><div class="browser"><div class="bar"><i class="dot"></i><i class="dot"></i><i class="dot"></i><div class="url">github.com/ImranArshad</div></div><div class="page"><aside class="side"><div class="portrait"></div><h2>Imran Arshad</h2><div class="handle">Full-Stack Developer</div><div class="status"><i></i>Open to collaboration</div><div class="mini"><a href="#"><i data-lucide="github"></i> GitHub</a><a href="#"><i data-lucide="linkedin"></i> LinkedIn</a><a href="mailto:imranarshad10002@gmail.com"><i data-lucide="mail"></i> Email</a></div></aside><main class="main"><div class="hero"><div class="particles"><i></i><i></i><i></i><i></i></div><h1>Hi, I'm <span>Imran Arshad</span> <i data-lucide="sparkles"></i></h1><h3>Full-Stack Developer · AI Agent &amp; Automation Expert · React Developer</h3><div class="badges"><span class="badge"><img src="https://cdn.simpleicons.org/react/61DAFB">React</span><span class="badge"><img src="https://cdn.simpleicons.org/rubyonrails/CC0000">Rails</span><span class="badge"><img src="https://cdn.simpleicons.org/python/3776AB">Python</span><span class="badge"><img src="https://cdn.simpleicons.org/n8n/EA4B71">n8n</span><span class="badge"><img src="https://cdn.simpleicons.org/postgresql/4169E1">PostgreSQL</span></div><div class="typing">&gt; Building intelligent applications and automating the future<span class="cursor">_</span></div></div><section><h2>About Me</h2><p>I build production-ready web applications, responsive interfaces, API integrations, and intelligent workflow systems. My work combines <b>React, Ruby on Rails, Python, PostgreSQL, n8n, and AI agents</b> to turn repetitive work into reliable automation.</p><div class="callout"><b>My goal:</b> Build intelligent applications that make complex work simpler, faster, and more useful.</div></section><section><h2>Tech Stack</h2><div class="skills"><span class="skill"><img src="https://cdn.simpleicons.org/react/61DAFB">React</span><span class="skill"><img src="https://cdn.simpleicons.org/javascript/F7DF1E">JavaScript</span><span class="skill"><img src="https://cdn.simpleicons.org/rubyonrails/CC0000">Ruby on Rails</span><span class="skill"><img src="https://cdn.simpleicons.org/python/3776AB">Python</span><span class="skill"><img src="https://cdn.simpleicons.org/postgresql/4169E1">PostgreSQL</span><span class="skill"><img src="https://cdn.simpleicons.org/n8n/EA4B71">n8n</span><span class="skill">REST APIs</span><span class="skill">MVC Architecture</span><span class="skill">Git / GitHub</span></div></section><section><h2>Featured Projects</h2><div class="cards"><div class="card"><h3><i data-lucide="shopping-cart"></i> Minimart E-Commerce</h3><p>Shopping cart, secure authentication, and production-ready architecture.</p><p><b>Rails · JavaScript · PostgreSQL</b></p><a href="#">View project →</a></div><div class="card"><h3><i data-lucide="music-2"></i> Music Library App</h3><p>Music library management with complete CRUD operations.</p><p><b>Rails · JavaScript · PostgreSQL</b></p><a href="#">View project →</a></div><div class="card"><h3><i data-lucide="check-square-2"></i> Task Management</h3><p>Authentication, prioritization, responsive UI, and clean MVC design.</p><p><b>Rails · JavaScript · PostgreSQL</b></p><a href="#">View project →</a></div><div class="card"><h3><i data-lucide="bot"></i> AI Automation</h3><p>Diet planning, communication orchestration, and real-time digests.</p><p><b>n8n · AI Agents · APIs</b></p><a href="#">View project →</a></div></div></section><section><h2>Automation Solutions</h2><table class="table"><tr><th>Solution</th><th>What it does</th></tr><tr><td><b>Diet Plan Agent</b></td><td>Creates personalized meal-planning workflows.</td></tr><tr><td><b>Communication Agent</b></td><td>Automates email, WhatsApp, and chatbot workflows.</td></tr><tr><td><b>Weather &amp; News Digest</b></td><td>Aggregates APIs and delivers real-time updates.</td></tr></table></section><section><h2>Impact</h2><div class="analytics"><div class="statrow"><div class="stat"><b>60%</b><small>manual work reduced</small></div><div class="stat"><b>4+</b><small>featured projects</small></div><div class="stat"><b>10+</b><small>core technologies</small></div></div></div></section><div class="footer"><strong>Building intelligent applications and automating the future.</strong><br><br>Open to full-stack, React, AI-agent, and automation collaborations.</div></main></div></div><script src="https://unpkg.com/lucide@latest"></script><script>lucide.createIcons();</script></body></html>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,25:4f8cff,60:20d9ff,100:a76cff&height=250&section=header&text=Imran%20Arshad&fontSize=58&fontColor=e8f1ff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Agent%20%26%20Automation%20Expert%20%C2%B7%20React%20Developer&descAlignY=56&descSize=17&descColor=99a9c2" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=500&size=16&duration=2600&pause=900&color=20D9FF&center=true&vCenter=true&repeat=true&width=680&lines=%3E+Building+intelligent+applications...;%3E+Automating+the+future+with+AI+agents;%3E+Shipping+production-ready+React+%2B+Rails" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/ImranArshad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:imranarshad10002@gmail.com"><img src="https://img.shields.io/badge/Email-20D9FF?style=for-the-badge&logo=gmail&logoColor=101c32"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/React-101c32?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Ruby%20on%20Rails-101c32?style=flat-square&logo=rubyonrails&logoColor=CC0000"/>
+<img src="https://img.shields.io/badge/Python-101c32?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/n8n-101c32?style=flat-square&logo=n8n&logoColor=EA4B71"/>
+<img src="https://img.shields.io/badge/PostgreSQL-101c32?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+
+<img src="https://img.shields.io/badge/-🟢%20Open%20to%20collaboration-0d1422?style=flat-square&labelColor=0d1422&color=19b77a"/>
+
+</div>
+
+<br/>
+
+## <img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/1f464_3d.png" width="30" valign="middle"/> About Me
+
+I build production-ready web applications, responsive interfaces, API integrations, and intelligent workflow systems. My work combines **React, Ruby on Rails, Python, PostgreSQL, n8n, and AI agents** to turn repetitive work into reliable automation.
+
+> 🎯 **My goal:** Build intelligent applications that make complex work simpler, faster, and more useful.
+
+<br/>
+
+## <img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/1f9f0_3d.png" width="30" valign="middle"/> Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,rails,python,postgres,git,github&theme=dark&perline=7"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-0d1422?style=for-the-badge&labelColor=0d1422&color=20d9ff"/>
+<img src="https://img.shields.io/badge/MVC%20Architecture-0d1422?style=for-the-badge&labelColor=0d1422&color=4f8cff"/>
+<img src="https://img.shields.io/badge/n8n%20Automation-0d1422?style=for-the-badge&labelColor=0d1422&color=EA4B71"/>
+
+</div>
+
+<br/>
+
+## <img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/1f4cc_3d.png" width="30" valign="middle"/> Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Minimart E-Commerce
+Shopping cart, secure authentication, and production-ready architecture.
+
+`Rails` `JavaScript` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎵 Music Library App
+Music library management with complete CRUD operations.
+
+`Rails` `JavaScript` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ Task Management
+Authentication, prioritization, responsive UI, and clean MVC design.
+
+`Rails` `JavaScript` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Automation
+Diet planning, communication orchestration, and real-time digests.
+
+`n8n` `AI Agents` `APIs`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/1f916_3d.png" width="30" valign="middle"/> Automation Solutions
+
+| Solution | What it does |
+|---|---|
+| **Diet Plan Agent** | Creates personalized meal-planning workflows. |
+| **Communication Agent** | Automates email, WhatsApp, and chatbot workflows. |
+| **Weather & News Digest** | Aggregates APIs and delivers real-time updates. |
+
+<br/>
+
+## <img src="https://cdn.jsdelivr.net/gh/shuding/fluentui-emoji-unicode/assets/1f4ca_3d.png" width="30" valign="middle"/> Impact
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/60%25-manual%20work%20reduced-0d1422?style=for-the-badge&labelColor=0d1422&color=20d9ff"/>
+<img src="https://img.shields.io/badge/4%2B-featured%20projects-0d1422?style=for-the-badge&labelColor=0d1422&color=4f8cff"/>
+<img src="https://img.shields.io/badge/10%2B-core%20technologies-0d1422?style=for-the-badge&labelColor=0d1422&color=a76cff"/>
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ImranArshad&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=20D9FF&icon_color=4F8CFF&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImranArshad&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=20D9FF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImranArshad&theme=radical&hide_border=true&background=0D1117&ring=20D9FF&fire=A76CFF"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Building intelligent applications and automating the future.**
+
+Open to full-stack, React, AI-agent, and automation collaborations.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a76cff,50:20d9ff,100:4f8cff&height=120&section=footer" width="100%"/>
+
+</div>
