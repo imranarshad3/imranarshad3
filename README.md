@@ -76,7 +76,7 @@ I care about the details across the whole experience: responsive interfaces, cle
 <a href="https://github.com/imranarshad3"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=imranarshad3&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1721&title_color=8DEBD3&text_color=D6E5EA&icon_color=8DEBD3&rank_icon=github" alt="Live GitHub statistics"/></a>
 <a href="https://github.com/imranarshad3?tab=repositories"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranarshad3&layout=compact&hide_border=true&bg_color=0D1721&title_color=8DEBD3&text_color=D6E5EA&langs_count=8" alt="Repository programming languages"/></a>
 
-<a href="https://github.com/imranarshad3"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imranarshad3&bg_color=0D1721&color=BAC9D8&line=8DEBD3&point=8DEBD3&area=true&area_color=206B57&hide_border=true&custom_title=Contribution%20activity" alt="GitHub activity chart"/></a>
+<a href="https://github.com/imranarshad3"><img width="100%" src="./assets/activity-graph.svg" alt="GitHub activity chart"/></a>
 
 <sub>Public GitHub data supplied by third-party chart services; availability and rate limits vary.</sub>
 </div>

@@ -1,0 +1,35 @@
+name: Refresh profile activity chart
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/activity-chart.yml'
+      - 'scripts/update_activity_chart.py'
+  workflow_dispatch:
+  schedule:
+    - cron: '19 4 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate GitHub contribution chart
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_USERNAME: imranarshad3
+        run: python3 scripts/update_activity_chart.py
+      - name: Publish chart to this repository
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/activity-graph.svg
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh verified contribution activity chart'
+            git push
+          fi
