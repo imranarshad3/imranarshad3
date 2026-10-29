@@ -41,18 +41,54 @@ I care about the details across the whole experience: responsive interfaces, cle
 
 ### 03 / SELECTED WORK
 
+<div align="center">
+
+<a href="https://github.com/imranarshad3?tab=repositories"><img src="./assets/featured-work-header.svg" width="100%" alt="Featured projects — four live web experiences across commerce, nature, 3D and the web"/></a>
+
+</div>
+
 <table>
 <tr>
-<td width="50%" valign="top"><img src="./assets/project-minimart.svg" alt="Minimart E-Commerce conceptual cover" width="100%"/><h3>01 — Minimart E-Commerce</h3><p><b>The challenge:</b> Make everyday shopping straightforward.<br/><b>The build:</b> Shopping cart, account authentication, and product flows.</p><code>Rails</code> <code>JavaScript</code> <code>PostgreSQL</code></td>
-<td width="50%" valign="top"><img src="./assets/project-music.svg" alt="Music Library conceptual cover" width="100%"/><h3>02 — Music Library App</h3><p><b>The challenge:</b> Organize and manage music collections.<br/><b>The build:</b> Complete CRUD operations for structured libraries.</p><code>Rails</code> <code>JavaScript</code> <code>PostgreSQL</code></td>
+<td width="50%" valign="top">
+<a href="https://velto-dusky.vercel.app/"><img src="./assets/project-velto.svg" width="100%" alt="Velto construction chemicals storefront illustration"/></a>
+<h3>01 / VELTO — Construction Commerce</h3>
+<p>A product-focused <b>construction chemicals storefront</b> with searchable product discovery, detailed catalogue pages, multi-product quote requests, customer accounts and a staff admin area.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Clerk</code> <code>Supabase</code></p>
+<p><a href="https://velto-dusky.vercel.app/"><b>↗ Live Website</b></a> &nbsp; · &nbsp; <a href="https://github.com/imranarshad3/Velto">Source Code</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://plantify-2lp0gcx3r-imarnarshad10002s-projects.vercel.app/"><img src="./assets/project-plantify.svg" width="100%" alt="Plantify plant shop and botanical shopping interface illustration"/></a>
+<h3>02 / PLANTIFY — Botanical Storefront</h3>
+<p>A polished <b>plant-shopping experience</b> featuring curated plant collections, product details, fertilizer browsing, care guides, search, a shopping cart and account flows.</p>
+<p><code>React</code> <code>Vite</code> <code>React Router</code> <code>Clerk</code></p>
+<p><a href="https://plantify-2lp0gcx3r-imarnarshad10002s-projects.vercel.app/"><b>↗ Live Website</b></a> &nbsp; · &nbsp; <a href="https://github.com/imranarshad3/Plantify">Source Code</a></p>
+</td>
 </tr>
 <tr>
-<td width="50%" valign="top"><img src="./assets/project-tasks.svg" alt="Task Management conceptual cover" width="100%"/><h3>03 — Task Management</h3><p><b>The challenge:</b> Simplify day-to-day task organization.<br/><b>The build:</b> Authentication, priorities, and responsive workflows.</p><code>Rails</code> <code>JavaScript</code> <code>MVC</code></td>
-<td width="50%" valign="top"><img src="./assets/project-automation.svg" alt="AI Workflow Automation conceptual cover" width="100%"/><h3>04 — AI Workflow Automation</h3><p><b>The challenge:</b> Reduce repeat work across connected services.<br/><b>The build:</b> Agents for planning, communications, and digests.</p><code>n8n</code> <code>AI Agents</code> <code>REST APIs</code></td>
+<td width="50%" valign="top">
+<a href="https://inoir.netlify.app/"><img src="./assets/project-noir.svg" width="100%" alt="NOIR luxury watch experience and interactive 3D showroom illustration"/></a>
+<h3>03 / NOIR — Immersive 3D Experience</h3>
+<p>A cinematic <b>luxury watch storefront</b> combining a scroll-driven 3D watch, interactive product configurator, responsive showroom and shopping bag with accessible fallback states.</p>
+<p><code>Next.js</code> <code>TypeScript</code> <code>R3F / Three.js</code> <code>GSAP</code> <code>Motion</code></p>
+<p><a href="https://inoir.netlify.app/"><b>↗ Explore Live Experience</b></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://store.inoonmr.workers.dev/"><img src="./assets/project-cloud-store.svg" width="100%" alt="Store — edge-hosted online storefront concept illustration"/></a>
+<h3>04 / STORE — Cloud Storefront</h3>
+<p>An independently deployed <b>online storefront experience</b> on a Cloudflare Workers domain. Explore the live site for its shopping interface and overall product presentation.</p>
+<p><code>Online Store</code> <code>Cloudflare Workers</code> <code>Live Deployment</code></p>
+<p><a href="https://store.inoonmr.workers.dev/"><b>↗ Visit Live Website</b></a></p>
+</td>
 </tr>
 </table>
 
-<div align="right"><a href="https://github.com/imranarshad3?tab=repositories">Browse my repositories →</a></div>
+<div align="center">
+
+<sub>These illustrations are custom portfolio visuals, not screenshots of the deployed websites.</sub>
+
+<a href="https://github.com/imranarshad3?tab=repositories"><b>More work on GitHub →</b></a>
+
+</div>
 
 <br/>
 
