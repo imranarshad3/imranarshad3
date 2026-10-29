@@ -73,7 +73,6 @@ I care about the details across the whole experience: responsive interfaces, cle
 <div align="center">
 <img src="./assets/analytics-header.svg" width="100%" alt="GitHub development analytics"/>
 
-<a href="https://github.com/imranarshad3"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=imranarshad3&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1721&title_color=8DEBD3&text_color=D6E5EA&icon_color=8DEBD3&rank_icon=github" alt="Live GitHub statistics"/></a>
 <a href="https://github.com/imranarshad3?tab=repositories"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranarshad3&layout=compact&hide_border=true&bg_color=0D1721&title_color=8DEBD3&text_color=D6E5EA&langs_count=8" alt="Repository programming languages"/></a>
 
 <a href="https://github.com/imranarshad3"><img width="100%" src="./assets/activity-graph.svg" alt="GitHub activity chart"/></a>
